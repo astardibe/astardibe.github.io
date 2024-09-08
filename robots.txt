@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://astardibe.github.io/sitemap.html.gz
+Sitemap: https://astardibe.github.io/app/sitemap.html.gz
+Sitemap: https://astardibe.github.io/assets/sitemap.html.gz
+Sitemap: https://astardibe.github.io/css/sitemap.html.gz
+Sitemap: https://astardibe.github.io/includes/sitemap.html.gz
+Sitemap: https://astardibe.github.io/item/sitemap.html.gz
+Sitemap: https://astardibe.github.io/src/sitemap.html.gz
